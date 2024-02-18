@@ -5,7 +5,7 @@ I'm a passionate MERN Stack Developer. With a strong background in Web Developme
 
 ### Skills 🛠️
 - Programming Languages: HTML CSS JAVASCRIPT NODE JS C++
-- Technologies/Frameworks: REACTJS, EXPRESS JS, TAILWINF CSS, NEXT JS
+- Technologies/Frameworks: REACTJS, EXPRESS JS, TAILWIND CSS, NEXT JS
 - Tools: ILLUSTRATOR, CANVA, SPLINE 3D
 
 ### Reach Me 📫
