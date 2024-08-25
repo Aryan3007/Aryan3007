@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">I'm Aryan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="left">I'm Aryan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
 - 🌱 I’m currently learning AI ML  
