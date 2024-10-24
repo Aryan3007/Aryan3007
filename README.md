@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning AI ML  
   
 
-- 💻 A passionate MERN Stack Developer. With a strong background in Web Development.  
+- 💻 A passionate MERN Stack and React Native Developer. With a strong background in Web Development.  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
