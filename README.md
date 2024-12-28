@@ -4,13 +4,10 @@
 ### <div align="left">I'm Aryan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
   
 
-- 🌱 I’m currently learning AI ML  
+-  I’m currently learning AI ML  
   
 
-- 💻 A passionate MERN Stack and React Native Developer. With a strong background in Web Development.  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+-  A passionate MERN Stack and React Native Developer. With a strong background in Web Development.  
   
 
 <br/>  
