@@ -1,7 +1,7 @@
 
   
 
-### <div align="left">I'm Aryan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="left">I'm Aryan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
 
 -  A passionate MERN Stack and React Native Developer. With a strong background in Web Development.  
   
