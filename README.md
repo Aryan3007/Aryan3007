@@ -32,37 +32,6 @@ I build and ship production-grade web, mobile, and desktop applications end-to-e
 | **AI** | LLM Integration, Conversational AI, Prompt Engineering |
 | **Tools** | Git, GitHub, GitLab, Postman, Jira |
 
-## Featured projects
-
-### Aarambh ERP
-*AI-powered ERP platform · React, Node.js, Express, MySQL, OAuth2*
-
-- Built and deployed RESTful API integrations with OAuth2 authentication covering BOQ, quotations, work orders, procurement, inventory, and project management.
-- Integrated FTP/SFTP file-transfer workflows, SSL/TLS certificates, and Azure Key Vault for secure exchange of MTO/BOQ files and integration credentials.
-- Configured Azure DevOps CI/CD pipelines and supported an active client pilot with around 10 daily users.
-
-### Flowtype
-*System-wide AI voice dictation · Electron, Deepgram, Groq*
-
-- Built a real-time pipeline connecting Electron with Deepgram Speech-to-Text and Groq's Llama 3.1 API for low-latency transcription and processing.
-- Implemented asynchronous API communication, authentication, and error handling across multiple external REST APIs.
-- Adopted internally by 8 engineers at Kuberya AI for daily coding, documentation, and communication.
-
-## Experience
-
-**Full Stack Developer, Kuberya AI** (full-time, on-site)
-Engineering production web and mobile applications end-to-end, owning system design, frontend architecture, and backend APIs. Building AI-powered product features and improving performance through code-splitting, caching, and CDN optimization.
-
-**Freelance Full Stack Developer, Infrashyom Nexus** (remote)
-Built the official company website end-to-end with portfolio showcase and project tracking features, deployed on AWS. Responsible for ongoing SEO strategy and technical optimization.
-
-## Achievements
-
-- Outstanding Contribution Award, VIPMCON 2025, for an AI/ML-based disease prediction app
-- Finalist, Smart India Hackathon (SIH) 2024
-- 1st Position, Campus Tycoon 2024
-- Top 3, DBPH Hackathon 2024
-- Coordinator, TEDx JEC (2024)
 
 ## GitHub activity
 
