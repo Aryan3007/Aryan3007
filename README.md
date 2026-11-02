@@ -23,7 +23,7 @@ I build and ship production-grade web, mobile, and desktop applications end-to-e
 | Area | Technologies |
 | --- | --- |
 | **Languages** | JavaScript, TypeScript |
-| **Backend** | Node.js, Express.js, NestJS, FastAPI, Next.js, Microservices |
+| **Backend** | Node.js, Express.js, NestJS, Next.js, Microservices |
 | **API & Integration** | REST, OAuth2, WebSockets, Webhooks, FTP/SFTP, API Gateway, Rate Limiting, Swagger/OpenAPI |
 | **Frontend** | React, Next.js, React Native, Electron, Redux, Tailwind CSS, shadcn/ui |
 | **Databases** | PostgreSQL, MySQL, Redis |
